@@ -1,0 +1,3 @@
+Number of times a word was replace: 122169
+Time taken to process: 1.47 seconds
+Memory taken to process: 0.14 MB
